@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UnionFind/UnionFind.iml" filepath="$PROJECT_DIR$/UnionFind/UnionFind.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sp2016cs61b.iml" filepath="$PROJECT_DIR$/sp2016cs61b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Data Structures.iml" filepath="$PROJECT_DIR$/Data Structures/Data Structures.iml" />
     </modules>
   </component>
 </project>
