@@ -5,8 +5,11 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/BST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/UnionFind" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MinPQ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Graph" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="javalib" level="project" />
   </component>
 </module>
